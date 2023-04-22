@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-_*Data Analyst*_ <br>
+# _**Data Analyst**_
 
 [Website](https://hanfela.com/) / [LinkedIn](https://www.linkedin.com/in/hanifnoerr/) / [GitHub](https://github.com/hanifnoerr/) / [Twitter](https://twitter.com/hanifnoerr/) / [Medium] (medium.com/@hanifnoerr)
 
@@ -21,15 +21,14 @@ _*Data Analyst*_ <br>
 
 - **Ministry of Finance Award 2022** - Nagara Dana Ksatria Kolaborasi
 - **Hanif Noer R**. (2023). Kemenkeu-Sentiment-Classifier (Revision 06eaeaf). Hugging Face.
-https://doi.org/10.57967/hf/0520
-- **Rofiq, H. N.** (2022). Perbandingan Return Investasi Surat Berharga Negara Ritel dan Return Investasi Saham IDX30 di Masa Pandemi. J-MAS (Jurnal Manajemen Dan Sains) , 7(2). https://dx.doi.org/10.33087/jmas.v7i2.623
-- Rahardjo, N. S., & Pratama, Y. A. (2022). Analisis Prediktif untuk Memprediksi Harga Objek Lelang. In **H. N. Rofiq** (Ed.), Formula yang Bikin Datamu Bunyi (pp. 47–53). essay, Central Transformation Office Kemenkeu.
+[https://doi.org/10.57967/hf/0520](https://doi.org/10.57967/hf/0520)
+- **Rofiq, H. N.** (2022). Perbandingan Return Investasi Surat Berharga Negara Ritel dan Return Investasi Saham IDX30 di Masa Pandemi. J-MAS (Jurnal Manajemen Dan Sains) , 7(2). [https://dx.doi.org/10.33087/jmas.v7i2.623](https://dx.doi.org/10.33087/jmas.v7i2.623)
+- Rahardjo, N. S., & Pratama, Y. A. (2022). Analisis Prediktif untuk Memprediksi Harga Objek Lelang. In **H. N. Rofiq** (Ed.), Formula yang Bikin Datamu Bunyi (pp. 47–53). essay, Central Transformation Office Kemenkeu. [e-book]()
 
 ## Education
-<br>
+
 [Universitas Terbuka](https://www.ut.ac.id/) _(2020 - 2022)_
 **Bachelor of Management**; _GPA 3.70/4.00 (Cum Laude)_<br>
-<br>
 [PKN STAN](https://pknstan.ac.id/) _(2013 - 2016)_ <br>
 **Associate Degree in Asset Management**; _GPA 3.53/4.00 (Cum Laude)_
 
