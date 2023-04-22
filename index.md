@@ -26,14 +26,12 @@ https://doi.org/10.57967/hf/0520
 - Rahardjo, N. S., & Pratama, Y. A. (2022). Analisis Prediktif untuk Memprediksi Harga Objek Lelang. In **H. N. Rofiq** (Ed.), Formula yang Bikin Datamu Bunyi (pp. 47–53). essay, Central Transformation Office Kemenkeu.
 
 ## Education
-
-**Bachelor of Management**<br>
-[Universitas Terbuka](https://www.ut.ac.id/) - Jakarta, Indonesia _(2020 - 2022)_
-_GPA 3.70/4.00 (Cum Laude)_<br>
 <br>
-**Associate Degree in Asset Management**<br>
-[PKN STAN](https://pknstan.ac.id/) <br>
-_GPA 3.53/4.00 (Cum Laude)_
+[Universitas Terbuka](https://www.ut.ac.id/) _(2020 - 2022)_
+**Bachelor of Management**; _GPA 3.70/4.00 (Cum Laude)_<br>
+<br>
+[PKN STAN](https://pknstan.ac.id/) _(2013 - 2016)_ <br>
+**Associate Degree in Asset Management**; _GPA 3.53/4.00 (Cum Laude)_
 
 
 
