@@ -5,7 +5,7 @@ layout: default
 
 # _**Data Analyst**_
 
-[Website](https://hanfela.com/) / [LinkedIn](https://www.linkedin.com/in/hanifnoerr/) / [GitHub](https://github.com/hanifnoerr/) / [Twitter](https://twitter.com/hanifnoerr/) / [Medium] (medium.com/@hanifnoerr)
+[Website](https://hanfela.com/) / [LinkedIn](https://www.linkedin.com/in/hanifnoerr/) / [GitHub](https://github.com/hanifnoerr/) / [Twitter](https://twitter.com/hanifnoerr/) / [Medium](medium.com/@hanifnoerr)
 
 ## Experience
 
