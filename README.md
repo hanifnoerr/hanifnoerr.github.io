@@ -1,12 +1,12 @@
 # Hanif Noer Rofiq
 
-_Data Analyst_ <br>
+_*Data Analyst*_ <br>
 
 [Website](https://hanfela.com/) / [LinkedIn](https://www.linkedin.com/in/hanifnoerr/) / [GitHub](https://github.com/hanifnoerr/) / [Twitter](https://twitter.com/hanifnoerr/) 
 
 ## Experience
 
-**Data Analyst** @ [Ministry of Finance](https://kemenkeu.go.id/) _(Dec 2017 - Present)_ <br>
+**Staff / Data Analyst** @ [Ministry of Finance](https://kemenkeu.go.id/) _(Dec 2017 - Present)_ <br>
 - Built and sustained a tool for predicting state-owned asset rental prices using machine learning so the companies can focus their employees on doing jobs that require specialized skills.
 - Designed the webinar concept and curriculum to increase competency and prepare employees in DGSAM to support data-driven organization policy.
 - Conducted data analysis to evaluate current business processes and seek business opportunities.
