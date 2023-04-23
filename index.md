@@ -37,10 +37,10 @@ Create a web-app called ["Modul Pegadaian"](pnbp.djkn.kemenkeu.go.id). The purpo
 
 - **Kemenkeu Sentiment Classifier** - [Model](https://huggingface.co/hanifnoerr/Kemenkeu-Sentiment-Classifier) _(Apr 2023 – Apr 2023)_</dt>
   - Created a transformer-based model for sentiment analysis with specific purposes. Used to sort out the Ministry of Finance-related content on social media and determine their sentiment. Help to read public reactions, understand public desires, and develop communication strategies for the public.
-- Tool for Predicting State-Owned Asset Rental Prices - Website _(Aug 2022 – Aug 2022)_
+- **Tool for Predicting State-Owned Asset Rental Prices**  _(Aug 2022 – Aug 2022)_
   - Created price recommendations for state-owned asset rent to help the government determine state-owned asset rent prices easier and faster using machine learning.
   - Created models for three cities using the scikit-learn and xgboost algorithm, which can predict the rental price of stated-owned assets based on market prices and deployed on Streamlit. 
-- Web-based application for treasurers - Website (Jan 2019 – May 2019)
+- **Web-based application for treasurers** _(Jan 2019 – May 2019)_
   - Created a web-based application to facilitate treasurers in managing financial data and services related to
 auction and state receivables.
   - Designed the overall website concept using CodeIgniter (PHP, HTML) framework, implemented responsive home & product pages, implemented the entire login system to allow CRUD operations (PHP, HTML, MySQL), and deployed on a private server. 
@@ -54,128 +54,24 @@ auction and state receivables.
 [PKN STAN](https://pknstan.ac.id/) _(2013 - 2016)_ <br>
 **Associate Degree in Asset Management**; _GPA 3.53/4.00 (Cum Laude)_
 
+## Certifications
+- Finalis BPJS Kesehatan Healthkathon 2022 kategori Machine Learning - Verify	_Oct 2022_
+- Applied Data Science with Python - Verify	
+  - University of Michigan, _Jul 2022_
+  - Relevant skills: 
+- Google Project Management - Verify	
+  - Google, _Jun 2022_
+  - Relevant skills: 
+Data-driven Astronomy - Verify	_May 2022_
+Data Science - Verify	_Apr 2022_
+Google IT Support - Verify	_Apr 2022_
+Academic English: Writing - Verify	_Feb 2022_
+Mathematics for Data Science - Verify	_Mar 2021_
+AI Foundations for Everyone - Verify	_Mar 2021_
+DS0101EN: Introduction to Data Science - Verify	_Dec 2020_
+PY0101EN: Python Basics for Data Science - Verify	_Jul 2020_
 
-
-
-
-
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Skills and Interests
+**Programming Skills:** Python, PHP, SQL. <br>
+**Other:** HTML, CSS/Bootstrap, Scikit-learn, Tensorflow, Git, Tableau. <br>
+**Interests:** Astrophotography, Traveling, Technology. <br>
