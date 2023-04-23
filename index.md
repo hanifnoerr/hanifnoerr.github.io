@@ -33,18 +33,18 @@ Create a web-app called ["Modul Pegadaian"](pnbp.djkn.kemenkeu.go.id). The purpo
 
 ## Project
 <dl>
-  <dt>**Kemenkeu Sentiment Classifier - Model Apr 2023 – Apr 2023**</dt>
+  <dt>Kemenkeu Sentiment Classifier - [Model](https://huggingface.co/hanifnoerr/Kemenkeu-Sentiment-Classifier) _(Apr 2023 – Apr 2023)_</dt>
 <dd>Created a transformer-based model for sentiment analysis with specific purposes. Used to sort out the
 Ministry of Finance-related content on social media and determine their sentiment. Help to read public
 reactions, understand public desires, and develop communication strategies for the public.</dd>
-Tool for Predicting State-Owned Asset Rental Prices - Website Aug 2022 – Aug 2022
-● Created price recommendations for state-owned asset rent to help the government determine state-owned asset rent prices easier and faster using machine learning.
-● Created models for three cities using the scikit-learn and xgboost algorithm, which can predict the rental price of stated-owned assets based on market prices and deployed on Streamlit.
-Web-based application for treasurers - Website Jan 2019 – May 2019
-● Created a web-based application to facilitate treasurers in managing financial data and services related to
+  <dt>Tool for Predicting State-Owned Asset Rental Prices - Website _(Aug 2022 – Aug 2022)_</dt>
+<dd> - Created price recommendations for state-owned asset rent to help the government determine state-owned asset rent prices easier and faster using machine learning.
+- Created models for three cities using the scikit-learn and xgboost algorithm, which can predict the rental price of stated-owned assets based on market prices and deployed on Streamlit. </dd>
+Web-based application for treasurers - Website (Jan 2019 – May 2019)
+<dd> - Created a web-based application to facilitate treasurers in managing financial data and services related to
 auction and state receivables.
-● Designed the overall website concept using CodeIgniter (PHP, HTML) framework, implemented responsive
-home & product pages, implemented the entire login system to allow CRUD operations (PHP, HTML, MySQL), and deployed on a private server.
+- Designed the overall website concept using CodeIgniter (PHP, HTML) framework, implemented responsive
+home & product pages, implemented the entire login system to allow CRUD operations (PHP, HTML, MySQL), and deployed on a private server. </dd>
 </dl>
 
 ## Education
