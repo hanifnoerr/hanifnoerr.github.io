@@ -15,7 +15,7 @@ layout: default
 - Responsible for analyzing data to evaluate current business processes and seek business opportunities.
 <br>
 
-#### **Project-Based Intern : Data Scientist Virtual Internship Experience ID/X Partners** <br>
+#### **Project-Based Intern** - Data Scientist Virtual Internship Experience ID/X Partners _(Feb 2023 - Feb 2023)_ <br>
 - Finishing various tasks related to the activity of a Data Scientist from ID/X Partners, such as Programming Language Scripting, Big Data, Data Warehouse, Statistics, Data Analytics, and Machine Learning.
 <br>
 
