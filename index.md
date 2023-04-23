@@ -9,16 +9,18 @@ layout: default
 
 ## Experience
 
-### **Staff / Data Analyst** - [Ministry of Finance](https://kemenkeu.go.id/) _(Dec 2017 - Present)_ <br>
+#### **Staff / Data Analyst** - [Ministry of Finance](https://kemenkeu.go.id/) _(Dec 2017 - Present)_ <br>
 - Built and sustained a tool for predicting state-owned asset rental prices using **machine learning**. This tool aimed to develop a more accurate and efficient method for determining rental prices of state-owned assets so the companies can focus their employees on doing jobs that require specialized skills. 
 - Designed the webinar concept and curriculum to increase competency and prepare employees in DGSAM to support **data-driven organization** policy.
 - Responsible for analyzing data to evaluate current business processes and seek business opportunities.
 <br>
 </br>
+
 #### **Project-Based Intern : Data Scientist Virtual Internship Experience ID/X Partners** <br>
 - Finishing various tasks related to the activity of a Data Scientist from ID/X Partners, such as Programming Language Scripting, Big Data, Data Warehouse, Statistics, Data Analytics, and Machine Learning.
 <br>
 </br>
+
 #### **Intern** - [Ministry of Finance](https://kemenkeu.go.id/) _(Dec 2016 - Dec 2017)_ <br>
 Create a web-app called ["Modul Pegadaian"](pnbp.djkn.kemenkeu.go.id). The purpose of this app was to integrate non-tax revenue data from Pegadaian and the Ministry of Finance into a user-friendly web-based application. Here are some of the key features of the application:
 - Consolidation of Data: Modul Pegadaian consolidates non-tax revenue data from Pegadaian and the Ministry of Finance into a single platform, providing users with a comprehensive overview of their revenue streams.
