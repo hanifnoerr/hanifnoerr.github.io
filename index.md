@@ -34,20 +34,17 @@ Create a web-app called ["Modul Pegadaian"](pnbp.djkn.kemenkeu.go.id). The purpo
 - Rahardjo, N. S., & Pratama, Y. A. (2022). Analisis Prediktif untuk Memprediksi Harga Objek Lelang. In **H. N. Rofiq** (Ed.), Formula yang Bikin Datamu Bunyi (pp. 47–53). essay, Central Transformation Office Kemenkeu. [ebook](https://www.google.co.id/books/edition/Formula_yang_Bikin_Datamu_Bunyi/cpNyEAAAQBAJ?hl=en&gbpv=0)
 
 ## Project
-<dl>
-  <dt>Kemenkeu Sentiment Classifier - [Model](https://huggingface.co/hanifnoerr/Kemenkeu-Sentiment-Classifier) _(Apr 2023 – Apr 2023)_</dt>
-<dd>Created a transformer-based model for sentiment analysis with specific purposes. Used to sort out the
-Ministry of Finance-related content on social media and determine their sentiment. Help to read public
-reactions, understand public desires, and develop communication strategies for the public.</dd>
-  <dt>Tool for Predicting State-Owned Asset Rental Prices - Website _(Aug 2022 – Aug 2022)_</dt>
-<dd> - Created price recommendations for state-owned asset rent to help the government determine state-owned asset rent prices easier and faster using machine learning.
-- Created models for three cities using the scikit-learn and xgboost algorithm, which can predict the rental price of stated-owned assets based on market prices and deployed on Streamlit. </dd>
-Web-based application for treasurers - Website (Jan 2019 – May 2019)
-<dd> - Created a web-based application to facilitate treasurers in managing financial data and services related to
+
+- **Kemenkeu Sentiment Classifier** - [Model](https://huggingface.co/hanifnoerr/Kemenkeu-Sentiment-Classifier) _(Apr 2023 – Apr 2023)_</dt>
+  - Created a transformer-based model for sentiment analysis with specific purposes. Used to sort out the Ministry of Finance-related content on social media and determine their sentiment. Help to read public reactions, understand public desires, and develop communication strategies for the public.
+- Tool for Predicting State-Owned Asset Rental Prices - Website _(Aug 2022 – Aug 2022)_
+  - Created price recommendations for state-owned asset rent to help the government determine state-owned asset rent prices easier and faster using machine learning.
+  - Created models for three cities using the scikit-learn and xgboost algorithm, which can predict the rental price of stated-owned assets based on market prices and deployed on Streamlit. 
+- Web-based application for treasurers - Website (Jan 2019 – May 2019)
+  - Created a web-based application to facilitate treasurers in managing financial data and services related to
 auction and state receivables.
-- Designed the overall website concept using CodeIgniter (PHP, HTML) framework, implemented responsive
-home & product pages, implemented the entire login system to allow CRUD operations (PHP, HTML, MySQL), and deployed on a private server. </dd>
-</dl>
+  - Designed the overall website concept using CodeIgniter (PHP, HTML) framework, implemented responsive home & product pages, implemented the entire login system to allow CRUD operations (PHP, HTML, MySQL), and deployed on a private server. 
+
 
 ## Education
 
