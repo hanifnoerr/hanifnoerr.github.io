@@ -48,11 +48,8 @@ auction and state receivables.
 
 ## Education
 
-[Universitas Terbuka](https://www.ut.ac.id/) _(2020 - 2022)_ <br>
-**Bachelor of Management**; _GPA 3.70/4.00 (Cum Laude)_<br>
-
-[PKN STAN](https://pknstan.ac.id/) _(2013 - 2016)_ <br>
-**Associate Degree in Asset Management**; _GPA 3.53/4.00 (Cum Laude)_
+- [Universitas Terbuka](https://www.ut.ac.id/) _(2020 - 2022)_ <br> **Bachelor of Management**; _GPA 3.70/4.00 (Cum Laude)_
+- [PKN STAN](https://pknstan.ac.id/) _(2013 - 2016)_ <br> **Associate Degree in Asset Management**; _GPA 3.53/4.00 (Cum Laude)_
 
 ## Certifications
 - Finalist - BPJS Kesehatan Healthkathon 2022 in the Machine Learning category - [Verify](https://drive.google.com/file/d/12rQrU3sx9DpBgVA7y23ydog5FOEMp8yb/view?usp=sharing)
