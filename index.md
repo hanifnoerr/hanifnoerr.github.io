@@ -53,6 +53,9 @@ auction and state receivables.
 
 ## Certifications
 - Finalist - BPJS Kesehatan Healthkathon 2022 in the Machine Learning category - [Verify](https://drive.google.com/file/d/12rQrU3sx9DpBgVA7y23ydog5FOEMp8yb/view?usp=sharing)
+- Data Science Virtual Experience Programme[Verify](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_cLwCisAKzghQhvkC3_1671959305129_completion_certificate.pdf)
+  - British Airways, _Dec 2022_
+  - Relevant skills: Web Scraping, Machine Learning, Python, Data Science, Data Visualisation, Data Manipulation 
 - Applied Data Science with Python - [Verify](https://www.coursera.org/account/accomplishments/specialization/XRAVP5F2ZH9V)	
   - University of Michigan, _Jul 2022_
   - Relevant skills: Text Mining, Python Programming, Pandas, Matplotlib
