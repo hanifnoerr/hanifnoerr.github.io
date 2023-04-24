@@ -55,21 +55,40 @@ auction and state receivables.
 **Associate Degree in Asset Management**; _GPA 3.53/4.00 (Cum Laude)_
 
 ## Certifications
-- Finalis BPJS Kesehatan Healthkathon 2022 kategori Machine Learning - Verify	_Oct 2022_
-- Applied Data Science with Python - Verify	
+- Finalist - BPJS Kesehatan Healthkathon 2022 in the Machine Learning category - [Verify](https://drive.google.com/file/d/12rQrU3sx9DpBgVA7y23ydog5FOEMp8yb/view?usp=sharing)
+- Applied Data Science with Python - [Verify](https://www.coursera.org/account/accomplishments/specialization/XRAVP5F2ZH9V)	
   - University of Michigan, _Jul 2022_
-  - Relevant skills: 
-- Google Project Management - Verify	
+  - Relevant skills: Text Mining, Python Programming, Pandas, Matplotlib
+- Google Project Management - [Verify](https://www.coursera.org/account/accomplishments/professional-cert/8E3J7AFXT59E)	
   - Google, _Jun 2022_
-  - Relevant skills: 
-Data-driven Astronomy - Verify	_May 2022_
-Data Science - Verify	_Apr 2022_
-Google IT Support - Verify	_Apr 2022_
-Academic English: Writing - Verify	_Feb 2022_
-Mathematics for Data Science - Verify	_Mar 2021_
-AI Foundations for Everyone - Verify	_Mar 2021_
-DS0101EN: Introduction to Data Science - Verify	_Dec 2020_
-PY0101EN: Python Basics for Data Science - Verify	_Jul 2020_
+  - Relevant skills: Strategic Thinking, Project Management, Stakeholder Management, Project Planning, Risk Management
+- Data-driven Astronomy - [Verify](https://www.coursera.org/account/accomplishments/verify/H6ZUZHYF95WH)	
+  - University of Sydney, _May 2022_
+  - Relevant skills: Python Programming, Machine Learning, Applied Machine Learning, SQL
+- Data Science - [Verify](https://www.coursera.org/account/accomplishments/specialization/K7YFP34CL7JM)	
+  - Johns Hopkins University, _Apr 2022_
+  - Relevant skills: Git, Machine Learning, R Programming, Regression Analysis
+- Google IT Support - [Verify](https://www.coursera.org/account/accomplishments/professional-cert/BZ8FRTM9JRCQ)	
+  - Google, _Apr 2022_
+  - Relevant skills: Debugging, Encryption Algorithms and Techniques, Customer Service, Network Protocols, Cloud Computing
+- Synapses, Neurons and Brains [Verify](https://www.coursera.org/account/accomplishments/verify/VNJXHR6V72TG)
+  - Hebrew University of Jerusalem, _Apr 2022_
+  - Relevant skills: Neurobiology
+- Academic English: Writing - [Verify](https://www.coursera.org/account/accomplishments/specialization/PQCTQVPMGEHU)
+  - University of California, Irvine, _Feb 2022_
+  - Relevant skills: Punctuation, Essay Writing, Academic Writing, Writing
+- Mathematics for Data Science - [Verify](https://www.coursera.org/account/accomplishments/specialization/JP8MFGX9GB37)	
+  - HSE University, _Mar 2021_
+  - Relevant skills: Calculus, Probability, Discrete Mathematics, Linear Algebra
+- AI Foundations for Everyone - [Verify](https://www.coursera.org/account/accomplishments/specialization/6QQJZRLWCTM7)	
+  - IBM Skills Network, _Mar 2021_
+  - Relevant skills: Data Science, Deep Learning, Artificial Intelligence, Machine Learning, Watson (Computer)
+- DS0101EN: Introduction to Data Science - [Verify](https://courses.edx.org/certificates/0f361bc044574178bad5818e4d23b775)	
+  - IBM, _Dec 2020_
+  - Relevant skills: Data Science
+- PY0101EN: Python Basics for Data Science - [Verify](https://courses.edx.org/certificates/870a58ef538c4ed4b231783117a0b2f0)	
+  - IBM, _Jul 2020_
+  - Relevant skills: Python
 
 ## Skills and Interests
 **Programming Skills:** Python, PHP, SQL. <br>
