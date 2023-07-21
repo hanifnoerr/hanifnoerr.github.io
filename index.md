@@ -51,7 +51,7 @@ auction and state receivables.
 - [Universitas Terbuka](https://www.ut.ac.id/) _(2020 - 2022)_ <br> **Bachelor of Management**; _GPA 3.70/4.00 (Cum Laude)_
 - [PKN STAN](https://pknstan.ac.id/) _(2013 - 2016)_ <br> **Associate Degree in Asset Management**; _GPA 3.53/4.00 (Cum Laude)_
 
-## Certifications
+## Certificates
 - Finalist - BPJS Kesehatan Healthkathon 2022 in the Machine Learning category - [Verify](https://drive.google.com/file/d/12rQrU3sx9DpBgVA7y23ydog5FOEMp8yb/view?usp=sharing)
 - Data Science Virtual Experience Programme - [Verify](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_cLwCisAKzghQhvkC3_1671959305129_completion_certificate.pdf)
   - British Airways, _Dec 2022_
