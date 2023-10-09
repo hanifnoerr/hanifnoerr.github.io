@@ -27,6 +27,7 @@ Create a web-app called ["Modul Pegadaian"](pnbp.djkn.kemenkeu.go.id). The purpo
 
 ## Award and Publication
 
+- **Brunei Darussalam Scholarship on Enhancing Professional Communication Skills for ASEAN 2023** - Professional Communications in English (PCE) programme at UBD-FPT Global Centre in Da Nang, Vietnam
 - **Ministry of Finance Award 2022** - Nagara Dana Ksatria Kolaborasi
 - **Hanif Noer R**. (2023). Kemenkeu-Sentiment-Classifier (Revision 06eaeaf). Hugging Face.
 [https://doi.org/10.57967/hf/0520](https://doi.org/10.57967/hf/0520)
