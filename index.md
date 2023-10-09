@@ -29,6 +29,9 @@ Create a web-app called ["Modul Pegadaian"](pnbp.djkn.kemenkeu.go.id). The purpo
 
 - **Brunei Darussalam Scholarship on Enhancing Professional Communication Skills for ASEAN 2023** - Professional Communications in English (PCE) programme at UBD-FPT Global Centre in Da Nang, Vietnam
 - **Ministry of Finance Award 2022** - Nagara Dana Ksatria Kolaborasi
+- **Rofiq, H. N.** & Galuh Mafela Mutiara Sujak. (2023). CodelessML: a web-based application that eases the
+process of building Machine Learning models (1.0). Code Ocean. [https://doi.org/10.24433/CO.8192914.V1](https://doi.org/10.24433/CO.8192914.V1)
+- **Rofiq, H. N.** (2023). Deteksi Inefisiensi pada Klaim BPJS Kesehatan dengan menggunakan Machine Learning. Jurnal Jaminan Kesehatan Nasional, 3(1). [https://doi.org/10.53756/jjkn.v3i1.134](https://doi.org/10.53756/jjkn.v3i1.134)
 - **Hanif Noer R**. (2023). Kemenkeu-Sentiment-Classifier (Revision 06eaeaf). Hugging Face.
 [https://doi.org/10.57967/hf/0520](https://doi.org/10.57967/hf/0520)
 - **Rofiq, H. N.** (2022). Perbandingan Return Investasi Surat Berharga Negara Ritel dan Return Investasi Saham IDX30 di Masa Pandemi. J-MAS (Jurnal Manajemen Dan Sains) , 7(2). [https://dx.doi.org/10.33087/jmas.v7i2.623](https://dx.doi.org/10.33087/jmas.v7i2.623)
