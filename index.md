@@ -10,7 +10,7 @@ layout: default
 ## Experience
 
 #### **Staff / Data Analyst** - [Ministry of Finance](https://kemenkeu.go.id/) _(Dec 2017 - Present)_ <br>
-Experienced Data Analyst with a proven track record in the Ministry of Finance's Directorate General of State Asset Management. Proficient in developing predictive tools and dashboards to optimize asset management and revenue generation, resulting in increased efficiency and informed decision-making. Skilled in conducting data analysis to identify business opportunities and drive organizational policy. Recognized as an author in data analytics. Adept at IT support and treasury management, with a Bachelor's Degree in Management and notable awards for professional excellence. Committed to leveraging technology and analytics to drive strategic initiatives and enhance organizational performance.
+Conducted data analysis to evaluate current business processes and seek business opportunities.
 <br>
 
 ## Award and Publication
