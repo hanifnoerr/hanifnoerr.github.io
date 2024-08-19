@@ -10,45 +10,26 @@ layout: default
 ## Experience
 
 #### **Staff / Data Analyst** - [Ministry of Finance](https://kemenkeu.go.id/) _(Dec 2017 - Present)_ <br>
-- Built and sustained a tool for predicting state-owned asset rental prices using **machine learning**. This tool aimed to develop a more accurate and efficient method for determining rental prices of state-owned assets so the companies can focus their employees on doing jobs that require specialized skills. 
-- Designed the webinar concept and curriculum to increase competency and prepare employees in DGSAM to support **data-driven organization** policy.
-- Responsible for analyzing data to evaluate current business processes and seek business opportunities.
+Experienced Data Analyst with a proven track record in the Ministry of Finance's Directorate General of State Asset Management. Proficient in developing predictive tools and dashboards to optimize asset management and revenue generation, resulting in increased efficiency and informed decision-making. Skilled in conducting data analysis to identify business opportunities and drive organizational policy. Recognized as an author in data analytics. Adept at IT support and treasury management, with a Bachelor's Degree in Management and notable awards for professional excellence. Committed to leveraging technology and analytics to drive strategic initiatives and enhance organizational performance.
 <br>
-
-#### **Project-Based Intern** - Data Scientist Virtual Internship Experience ID/X Partners _(Feb 2023 - Feb 2023)_ <br>
-- Finishing various tasks related to the activity of a Data Scientist from ID/X Partners, such as Programming Language Scripting, Big Data, Data Warehouse, Statistics, Data Analytics, and Machine Learning.
-<br>
-
-#### **Intern** - [Ministry of Finance](https://kemenkeu.go.id/) _(Dec 2016 - Dec 2017)_ <br>
-Create a web-app called ["Modul Pegadaian"](pnbp.djkn.kemenkeu.go.id). The purpose of this app was to integrate non-tax revenue data from Pegadaian and the Ministry of Finance into a user-friendly web-based application. Here are some of the key features of the application:
-- Consolidation of Data: Modul Pegadaian consolidates non-tax revenue data from Pegadaian and the Ministry of Finance into a single platform, providing users with a comprehensive overview of their revenue streams.
-- User-Friendly Interface: The application features an intuitive, user-friendly interface that allows users to easily navigate and analyze their data.
-- Data Security: Modul Pegadaian is designed with robust security features to ensure the confidentiality and integrity of user data.
 
 ## Award and Publication
 
-- **Brunei Darussalam Scholarship on Enhancing Professional Communication Skills for ASEAN 2023** - Professional Communications in English (PCE) programme at UBD-FPT Global Centre in Da Nang, Vietnam
-- **Ministry of Finance Award 2022** - Nagara Dana Ksatria Kolaborasi
-- **Rofiq, H. N.** & Galuh Mafela Mutiara Sujak. (2023). CodelessML: a web-based application that eases the
-process of building Machine Learning models (1.0). Code Ocean. [https://doi.org/10.24433/CO.8192914.V1](https://doi.org/10.24433/CO.8192914.V1)
-- **Rofiq, H. N.** (2023). Deteksi Inefisiensi pada Klaim BPJS Kesehatan dengan menggunakan Machine Learning. Jurnal Jaminan Kesehatan Nasional, 3(1). [https://doi.org/10.53756/jjkn.v3i1.134](https://doi.org/10.53756/jjkn.v3i1.134)
-- **Hanif Noer R**. (2023). Kemenkeu-Sentiment-Classifier (Revision 06eaeaf). Hugging Face.
-[https://doi.org/10.57967/hf/0520](https://doi.org/10.57967/hf/0520)
-- **Rofiq, H. N.** (2022). Perbandingan Return Investasi Surat Berharga Negara Ritel dan Return Investasi Saham IDX30 di Masa Pandemi. J-MAS (Jurnal Manajemen Dan Sains) , 7(2). [https://dx.doi.org/10.33087/jmas.v7i2.623](https://dx.doi.org/10.33087/jmas.v7i2.623)
-- Rahardjo, N. S., & Pratama, Y. A. (2022). Analisis Prediktif untuk Memprediksi Harga Objek Lelang. In **H. N. Rofiq** (Ed.), Formula yang Bikin Datamu Bunyi (pp. 47–53). essay, Central Transformation Office Kemenkeu. [ebook](https://www.google.co.id/books/edition/Formula_yang_Bikin_Datamu_Bunyi/cpNyEAAAQBAJ?hl=en&gbpv=0)
+- **(2023) Brunei Darussalam Scholarship on Enhancing Professional Communication Skills for ASEAN**
+- **(2023) Best Sharing Knowledge on Indonesian Social Health Insurance Journal**
+- **(2022) Ministry of Finance Award - Nagara Dana Ksatria Kolaborasi**
+
+- (2024) Pemanfaatan Artificial Intelligence untuk Optimalisasi PNBP: Studi Kasus Bea Lelang pada Lelang Indonesia. Indonesian Treasury Review: Jurnal Perbendaharaan, Keuangan Negara Dan Kebijakan Publik. [https://doi.org/https://doi.org/10.33105/itrev.v9i2.873]
+- (2023) CodelessML: a web-based application that eases the process of building Machine Learning models (1.0). Code Ocean. [https://doi.org/10.24433/CO.8192914.V1](https://doi.org/10.24433/CO.8192914.V1)
+- (2023) Deteksi Inefisiensi pada Klaim BPJS Kesehatan dengan menggunakan Machine Learning. Jurnal Jaminan Kesehatan Nasional. [https://doi.org/10.53756/jjkn.v3i1.134](https://doi.org/10.53756/jjkn.v3i1.134)
+- (2023) Kemenkeu-Sentiment-Classifier (Revision 06eaeaf). Hugging Face. [https://doi.org/10.57967/hf/0520](https://doi.org/10.57967/hf/0520)
+- (2022) Perbandingan Return Investasi Surat Berharga Negara Ritel dan Return Investasi Saham IDX30 di Masa Pandemi. J-MAS (Jurnal Manajemen Dan Sains)). [https://dx.doi.org/10.33087/jmas.v7i2.623](https://dx.doi.org/10.33087/jmas.v7i2.623)
+-  (2022). Analisis Prediktif untuk Memprediksi Harga Objek Lelang. Formula yang Bikin Datamu Bunyi. Central Transformation Office Kemenkeu. [ebook](https://www.google.co.id/books/edition/Formula_yang_Bikin_Datamu_Bunyi/cpNyEAAAQBAJ?hl=en&gbpv=0)
 
 ## Project
-
-- **Kemenkeu Sentiment Classifier** - [Model](https://huggingface.co/hanifnoerr/Kemenkeu-Sentiment-Classifier) _(Apr 2023 – Apr 2023)_</dt>
-  - Created a transformer-based model for sentiment analysis with specific purposes. Used to sort out the Ministry of Finance-related content on social media and determine their sentiment. Help to read public reactions, understand public desires, and develop communication strategies for the public.
-- **Tool for Predicting State-Owned Asset Rental Prices**  _(Aug 2022 – Aug 2022)_
-  - Created price recommendations for state-owned asset rent to help the government determine state-owned asset rent prices easier and faster using machine learning.
-  - Created models for three cities using the scikit-learn and xgboost algorithm, which can predict the rental price of stated-owned assets based on market prices and deployed on Streamlit. 
-- **Web-based application for treasurers** _(Jan 2019 – May 2019)_
-  - Created a web-based application to facilitate treasurers in managing financial data and services related to
-auction and state receivables.
-  - Designed the overall website concept using CodeIgniter (PHP, HTML) framework, implemented responsive home & product pages, implemented the entire login system to allow CRUD operations (PHP, HTML, MySQL), and deployed on a private server. 
-
+- Stress Intervention Management System (SIMAS)
+- Sign Language Translator
+- CodelessML
 
 ## Education
 
