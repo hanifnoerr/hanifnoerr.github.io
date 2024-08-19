@@ -19,7 +19,7 @@ Conducted data analysis to evaluate current business processes and seek business
 - **(2023) Best Sharing Knowledge on Indonesian Social Health Insurance Journal**
 - **(2022) Ministry of Finance Award - Nagara Dana Ksatria Kolaborasi**
 
-- (2024) Pemanfaatan Artificial Intelligence untuk Optimalisasi PNBP: Studi Kasus Bea Lelang pada Lelang Indonesia. Indonesian Treasury Review: Jurnal Perbendaharaan, Keuangan Negara Dan Kebijakan Publik. [https://doi.org/https://doi.org/10.33105/itrev.v9i2.873]
+- (2024) Pemanfaatan Artificial Intelligence untuk Optimalisasi PNBP: Studi Kasus Bea Lelang pada Lelang Indonesia. Indonesian Treasury Review: Jurnal Perbendaharaan, Keuangan Negara Dan Kebijakan Publik. [https://doi.org/https://doi.org/10.33105/itrev.v9i2.873](https://doi.org/https://doi.org/10.33105/itrev.v9i2.873)
 - (2023) CodelessML: a web-based application that eases the process of building Machine Learning models (1.0). Code Ocean. [https://doi.org/10.24433/CO.8192914.V1](https://doi.org/10.24433/CO.8192914.V1)
 - (2023) Deteksi Inefisiensi pada Klaim BPJS Kesehatan dengan menggunakan Machine Learning. Jurnal Jaminan Kesehatan Nasional. [https://doi.org/10.53756/jjkn.v3i1.134](https://doi.org/10.53756/jjkn.v3i1.134)
 - (2023) Kemenkeu-Sentiment-Classifier (Revision 06eaeaf). Hugging Face. [https://doi.org/10.57967/hf/0520](https://doi.org/10.57967/hf/0520)
