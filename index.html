@@ -3,33 +3,46 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Hanif Noer Rofiq | AI Engineer &amp; Computer Vision Researcher</title>
-    <meta name="description" content="Hanif Noer Rofiq is an AI engineer and computer vision researcher studying Artificial Intelligence at Monash University.">
-    <meta name="theme-color" content="#f2efe7">
+    <title>Hanif Noer Rofiq | AI Engineer</title>
+    <meta name="description" content="Hanif Noer Rofiq is an AI engineer studying Artificial Intelligence at Monash University.">
+    <meta name="theme-color" content="#0e1117" media="(prefers-color-scheme: dark)">
+    <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+    <meta name="color-scheme" content="dark light">
     <link rel="canonical" href="https://hanifnoerr.github.io/">
     <link rel="icon" type="image/png" href="assets/images/favicon.png">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://hanifnoerr.github.io/">
-    <meta property="og:title" content="Hanif Noer Rofiq | AI Engineer &amp; Computer Vision Researcher">
+    <meta property="og:title" content="Hanif Noer Rofiq | AI Engineer">
     <meta property="og:description" content="Computer vision, generative models, and watermarking for AI-generated images.">
     <meta property="og:image" content="https://hanifnoerr.github.io/assets/images/og-portfolio-1200x630.png">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     <meta property="og:image:alt" content="Hanif Noer Rofiq, AI Engineer and Computer Vision Researcher">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Hanif Noer Rofiq | AI Engineer &amp; Computer Vision Researcher">
+    <meta name="twitter:title" content="Hanif Noer Rofiq | AI Engineer">
     <meta name="twitter:description" content="Computer vision, generative models, and watermarking for AI-generated images.">
     <meta name="twitter:image" content="https://hanifnoerr.github.io/assets/images/og-portfolio-1200x630.png">
     <link rel="preload" href="assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="assets/fonts/Noto-Sans-700/Noto-Sans-700.woff2" as="font" type="font/woff2" crossorigin>
-    <link rel="stylesheet" href="assets/css/portfolio.css">
+    <link rel="stylesheet" href="assets/css/portfolio.css?v=20260723d">
+    <script>
+      // Applied before first paint so the stored theme never flashes.
+      (function () {
+        try {
+          var stored = localStorage.getItem("theme");
+          if (stored === "light" || stored === "dark") {
+            document.documentElement.setAttribute("data-theme", stored);
+          }
+        } catch (e) {}
+      })();
+    </script>
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
         "@type": "Person",
         "name": "Hanif Noer Rofiq",
         "url": "https://hanifnoerr.github.io/",
-        "jobTitle": ["AI Engineer", "Computer Vision Researcher"],
+        "jobTitle": "AI Engineer",
         "alumniOf": [
           {"@type": "CollegeOrUniversity", "name": "Universitas Terbuka"},
           {"@type": "CollegeOrUniversity", "name": "Politeknik Keuangan Negara STAN"}
@@ -42,7 +55,7 @@
           "https://github.com/hanifnoerr",
           "https://www.kaggle.com/hanifnoerrofiq",
           "https://www.linkedin.com/in/hanifnoerr/",
-          "https://scholar.google.com/citations?user=UU8NCg8AAAAJ"
+          "https://scholar.google.com/citations?user=gMOqw3AAAAAJ"
         ],
         "knowsAbout": [
           "Computer Vision",
@@ -64,25 +77,55 @@
   <body>
     <a class="skip-link" href="#content">Skip to content</a>
 
-    <div class="page-shell">
-      <header class="profile-header">
-        <h1>Hanif Noer Rofiq</h1>
-        <nav class="profile-links" aria-label="Profile links">
-          <a href="https://github.com/hanifnoerr" target="_blank" rel="noreferrer">GitHub <span aria-hidden="true">&#8599;</span></a>
-          <a href="https://www.kaggle.com/hanifnoerrofiq" target="_blank" rel="noreferrer">Kaggle <span aria-hidden="true">&#8599;</span></a>
-          <a href="https://www.linkedin.com/in/hanifnoerr/" target="_blank" rel="noreferrer">LinkedIn <span aria-hidden="true">&#8599;</span></a>
-          <a href="https://scholar.google.com/citations?user=UU8NCg8AAAAJ&amp;hl=en&amp;oi=sra" target="_blank" rel="noreferrer">Google Scholar <span aria-hidden="true">&#8599;</span></a>
-        </nav>
-        <p class="profile-role">AI Engineer &amp; Computer Vision Researcher</p>
+    <div class="layout">
+      <header class="identity">
+        <div class="identity-inner">
+          <div class="identity-photo">
+            <img src="assets/images/profile.jpg" alt="Portrait of Hanif Noer Rofiq" width="480" height="480" decoding="async">
+            <span class="identity-photo-fallback" aria-hidden="true">HNR</span>
+          </div>
+
+          <h1 class="identity-name">Hanif Noer&nbsp;Rofiq</h1>
+          <p class="identity-role">AI Engineer</p>
+          <p class="identity-place"><span aria-hidden="true">&#9679;</span> Melbourne, Victoria, Australia</p>
+
+          <nav class="identity-links" aria-label="Profile links">
+            <a href="https://github.com/hanifnoerr" target="_blank" rel="noreferrer">GitHub <span class="arrow" aria-hidden="true">&#8599;</span></a>
+            <a href="https://www.kaggle.com/hanifnoerrofiq" target="_blank" rel="noreferrer">Kaggle <span class="arrow" aria-hidden="true">&#8599;</span></a>
+            <a href="https://www.linkedin.com/in/hanifnoerr/" target="_blank" rel="noreferrer">LinkedIn <span class="arrow" aria-hidden="true">&#8599;</span></a>
+            <a href="https://scholar.google.com/citations?user=gMOqw3AAAAAJ&amp;hl=id" target="_blank" rel="noreferrer">Google Scholar <span class="arrow" aria-hidden="true">&#8599;</span></a>
+          </nav>
+
+          <div class="identity-foot">
+            <button class="theme-toggle" type="button" aria-pressed="false">
+              <span class="theme-toggle-icon" aria-hidden="true"></span>
+              <span class="theme-toggle-label">Light mode</span>
+            </button>
+            <p class="identity-updated">Updated July 2026</p>
+          </div>
+        </div>
       </header>
 
-      <main id="content">
-        <section class="profile-section introduction" aria-labelledby="introduction-title">
-          <div class="section-label">
-            <p>01</p>
-            <h2 id="introduction-title">Introduction</h2>
+      <nav class="toc" aria-label="Sections">
+        <p class="toc-title">Contents</p>
+        <ol class="toc-list">
+          <li><a href="#about"><span class="toc-num">01</span><span class="toc-text">About</span></a></li>
+          <li><a href="#experience"><span class="toc-num">02</span><span class="toc-text">Experience</span></a></li>
+          <li><a href="#publications"><span class="toc-num">03</span><span class="toc-text">Publications</span></a></li>
+          <li><a href="#service"><span class="toc-num">04</span><span class="toc-text">Academic Service</span></a></li>
+          <li><a href="#education"><span class="toc-num">05</span><span class="toc-text">Education</span></a></li>
+          <li><a href="#awards"><span class="toc-num">06</span><span class="toc-text">Awards &amp; Honors</span></a></li>
+          <li><a href="#competitions"><span class="toc-num">07</span><span class="toc-text">Competitions</span></a></li>
+        </ol>
+      </nav>
+
+      <main id="content" class="content">
+        <section class="section" id="about" aria-labelledby="about-title">
+          <div class="section-head">
+            <span class="section-num">01</span>
+            <h2 id="about-title">About</h2>
           </div>
-          <div class="section-content intro-copy">
+          <div class="section-body intro-copy">
             <p>
               I am a Master of Artificial Intelligence student at <a href="https://www.monash.edu/" target="_blank" rel="noreferrer">Monash University</a>. My current research focuses on diffusion-based image generation and watermarking for AI-generated images. Before starting my master's, I worked in data and technology roles at the Ministry of Finance of the Republic of Indonesia.
             </p>
@@ -92,30 +135,30 @@
           </div>
         </section>
 
-        <section class="profile-section" aria-labelledby="experience-title">
-          <div class="section-label">
-            <p>02</p>
+        <section class="section" id="experience" aria-labelledby="experience-title">
+          <div class="section-head">
+            <span class="section-num">02</span>
             <h2 id="experience-title">Experience</h2>
           </div>
-          <div class="section-content record-list">
-            <article class="record experience-record">
-              <p class="record-date">Mar 2026<br>Present</p>
+          <div class="section-body record-list">
+            <article class="record">
+              <p class="record-date"><span>Mar 2026</span><span>Present</span></p>
               <div>
                 <h3>AI Engineer</h3>
                 <p class="record-org">Monash AIM, student team</p>
                 <p>Develop MIRA, an Android prototype for private wellbeing reflection and GP appointment preparation. My work covers model development, Android integration, testing, and privacy-focused product design.</p>
               </div>
             </article>
-            <article class="record experience-record">
-              <p class="record-date">Jul 2025<br>Dec 2025</p>
+            <article class="record">
+              <p class="record-date"><span>Jul 2025</span><span>Dec 2025</span></p>
               <div>
                 <h3>AI Engineer</h3>
                 <p class="record-org">BiOM (Biological Observation Monash)</p>
                 <p>Built a prototype for estimating the St Kilda penguin population from individual vocal signatures.</p>
               </div>
             </article>
-            <article class="record experience-record">
-              <p class="record-date">2016<br>2025</p>
+            <article class="record">
+              <p class="record-date"><span>2016</span><span>2025</span></p>
               <div>
                 <h3>Data &amp; Technology Roles</h3>
                 <p class="record-org">Ministry of Finance, Republic of Indonesia</p>
@@ -125,61 +168,61 @@
           </div>
         </section>
 
-        <section class="profile-section" aria-labelledby="publications-title">
-          <div class="section-label">
-            <p>03</p>
+        <section class="section" id="publications" aria-labelledby="publications-title">
+          <div class="section-head">
+            <span class="section-num">03</span>
             <h2 id="publications-title">Selected Publications</h2>
           </div>
-          <div class="section-content">
-            <div class="publication-list">
-              <article class="publication">
-                <p class="record-date">2025</p>
+          <div class="section-body">
+            <div class="record-list publication-list">
+              <article class="record publication">
+                <p class="record-date"><span>2025</span></p>
                 <div>
                   <h3><a href="https://doi.org/10.29207/resti.v9i1.6082" target="_blank" rel="noreferrer">Comparison of Transfer Learning Architecture Performance for Indonesian Auction Object Classification</a></h3>
                   <p>Jurnal RESTI, 9(1), 1&ndash;9.</p>
                 </div>
               </article>
-              <article class="publication">
-                <p class="record-date">2024</p>
-                <div>
-                  <h3><a href="https://doi.org/10.31092/jmkp.v8i2.2922" target="_blank" rel="noreferrer">Property Valuation: Using Machine Learning for Rent Value Prediction</a></h3>
-                  <p>Jurnal Manajemen Keuangan Publik, 8(2), 138&ndash;155.</p>
-                </div>
-              </article>
-              <article class="publication">
-                <p class="record-date">2024</p>
+              <article class="record publication">
+                <p class="record-date"><span>2024</span></p>
                 <div>
                   <h3><a href="https://jurnalbppk.kemenkeu.go.id/jurnalbppk/article/view/898" target="_blank" rel="noreferrer">Vessel Detection Using YOLO and Satellite Imagery to Enhance Customs Patrol Efficiency</a></h3>
                   <p>Jurnal BPPK, 17(3), 62&ndash;78.</p>
                 </div>
               </article>
-              <article class="publication">
-                <p class="record-date">2024</p>
+              <article class="record publication">
+                <p class="record-date"><span>2024</span></p>
                 <div>
                   <h3><a href="https://doi.org/10.18009/jcer.1506864" target="_blank" rel="noreferrer">CodelessML: A Beginner's Web Application for Getting Started with Machine Learning</a></h3>
                   <p>Journal of Computer and Education Research, 12(24), 582&ndash;599.</p>
                 </div>
               </article>
-              <article class="publication">
-                <p class="record-date">2024</p>
+              <article class="record publication">
+                <p class="record-date"><span>2024</span></p>
                 <div>
-                  <h3><a href="https://doi.org/10.33105/itrev.v9i2.873" target="_blank" rel="noreferrer">Pemanfaatan Artificial Intelligence untuk Optimalisasi PNBP: Studi Kasus Bea Lelang pada Lelang Indonesia</a></h3>
-                  <p>Indonesian Treasury Review, 9(2), 112&ndash;124.</p>
+                  <h3><a href="https://doi.org/10.31598/sintechjournal.v7i3.1705" target="_blank" rel="noreferrer">Analisis Persepsi Masyarakat Terhadap Lelang Indonesia Melalui Analisis n-gram dan Sentimen</a></h3>
+                  <p>SINTECH (Science and Information Technology) Journal, 7(3), 167&ndash;179.</p>
+                </div>
+              </article>
+              <article class="record publication">
+                <p class="record-date"><span>2023</span></p>
+                <div>
+                  <h3><a href="https://doi.org/10.53756/jjkn.v3i1.134" target="_blank" rel="noreferrer">Deteksi Inefisiensi pada Klaim BPJS Kesehatan dengan menggunakan Machine Learning</a></h3>
+                  <p>Jurnal Jaminan Kesehatan Nasional, 3(1), 83&ndash;98.</p>
                 </div>
               </article>
             </div>
-            <p class="publication-footer">Full publication list available <a href="https://scholar.google.com/citations?user=UU8NCg8AAAAJ&amp;hl=en&amp;oi=sra" target="_blank" rel="noreferrer">here</a>.</p>
+            <p class="section-footnote">Full publication list available <a href="https://scholar.google.com/citations?user=gMOqw3AAAAAJ&amp;hl=id" target="_blank" rel="noreferrer">here</a>.</p>
           </div>
         </section>
 
-        <section class="profile-section" aria-labelledby="service-title">
-          <div class="section-label">
-            <p>04</p>
+        <section class="section" id="service" aria-labelledby="service-title">
+          <div class="section-head">
+            <span class="section-num">04</span>
             <h2 id="service-title">Academic Service</h2>
           </div>
-          <div class="section-content record-list">
+          <div class="section-body record-list">
             <article class="record">
-              <p class="record-date">2026</p>
+              <p class="record-date"><span>2026</span></p>
               <div>
                 <h3>Conference Reviewer</h3>
                 <p>International Conference on Artificial Neural Networks (ICANN 2026).</p>
@@ -188,29 +231,29 @@
           </div>
         </section>
 
-        <section class="profile-section" aria-labelledby="education-title">
-          <div class="section-label">
-            <p>05</p>
+        <section class="section" id="education" aria-labelledby="education-title">
+          <div class="section-head">
+            <span class="section-num">05</span>
             <h2 id="education-title">Education</h2>
           </div>
-          <div class="section-content record-list">
-            <article class="record experience-record">
-              <p class="record-date">Mar 2025<br>Dec 2026</p>
+          <div class="section-body record-list">
+            <article class="record">
+              <p class="record-date"><span>Mar 2025</span><span>Dec 2026</span></p>
               <div>
                 <h3><a href="https://www.monash.edu/" target="_blank" rel="noreferrer">Monash University</a></h3>
                 <p class="record-org">Master of Artificial Intelligence, Information Technology</p>
                 <p>Expected completion: December 2026.</p>
               </div>
             </article>
-            <article class="record experience-record">
-              <p class="record-date">Sep 2020<br>May 2023</p>
+            <article class="record">
+              <p class="record-date"><span>Sep 2020</span><span>May 2023</span></p>
               <div>
                 <h3><a href="https://www.ut.ac.id/" target="_blank" rel="noreferrer">Universitas Terbuka</a></h3>
                 <p class="record-org">Bachelor of Management</p>
               </div>
             </article>
-            <article class="record experience-record">
-              <p class="record-date">2013<br>2016</p>
+            <article class="record">
+              <p class="record-date"><span>2013</span><span>2016</span></p>
               <div>
                 <h3><a href="https://pknstan.ac.id/" target="_blank" rel="noreferrer">Politeknik Keuangan Negara STAN</a></h3>
                 <p class="record-org">Diploma III, Asset Management</p>
@@ -219,49 +262,49 @@
           </div>
         </section>
 
-        <section class="profile-section" aria-labelledby="awards-title">
-          <div class="section-label">
-            <p>06</p>
+        <section class="section" id="awards" aria-labelledby="awards-title">
+          <div class="section-head">
+            <span class="section-num">06</span>
             <h2 id="awards-title">Awards &amp; Honors</h2>
           </div>
-          <div class="section-content record-list">
+          <div class="section-body record-list">
             <article class="record">
-              <p class="record-date">Jan 2026</p>
+              <p class="record-date"><span>Jan 2026</span></p>
               <div>
                 <h3><a href="https://www.kaggle.com/benchmarks/hanifnoerrofiq/cipher-frontlines-story-driven-cryptanalysis" target="_blank" rel="noreferrer">Kaggle Task Tuesday Featured Contributor</a></h3>
                 <p>Kaggle featured my Cryptanalysis benchmark task and invited me to present it at a Community Benchmarks meeting.</p>
               </div>
             </article>
             <article class="record">
-              <p class="record-date">Dec 2025</p>
+              <p class="record-date"><span>Dec 2025</span></p>
               <div>
                 <h3>2nd Best Innovation, Kompetisi Inovasi Kekayaan Negara</h3>
                 <p>Ministry of Finance, Republic of Indonesia.</p>
               </div>
             </article>
             <article class="record">
-              <p class="record-date">Sep 2024</p>
+              <p class="record-date"><span>Sep 2024</span></p>
               <div>
                 <h3>Winner, Call for Papers at the 4th WCO RTC Indonesia International Conference</h3>
                 <p>Indonesian Customs and Excise Education and Training Center.</p>
               </div>
             </article>
             <article class="record">
-              <p class="record-date">Aug 2023</p>
+              <p class="record-date"><span>Aug 2023</span></p>
               <div>
                 <h3>Brunei Darussalam Scholarship Grantee</h3>
                 <p>Enhancing Professional Communication Skills for ASEAN, Government of Brunei Darussalam.</p>
               </div>
             </article>
             <article class="record">
-              <p class="record-date">Jun 2023</p>
+              <p class="record-date"><span>Jun 2023</span></p>
               <div>
                 <h3>Best Sharing Knowledge, Indonesian Social Health Insurance Journal</h3>
                 <p>BPJS Kesehatan.</p>
               </div>
             </article>
             <article class="record">
-              <p class="record-date">Oct 2022</p>
+              <p class="record-date"><span>Oct 2022</span></p>
               <div>
                 <h3>Nagara Dana Ksatria Kolaborasi</h3>
                 <p>Ministry of Finance, Republic of Indonesia.</p>
@@ -270,75 +313,75 @@
           </div>
         </section>
 
-        <section class="profile-section" aria-labelledby="misc-title">
-          <div class="section-label">
-            <p>07</p>
-            <h2 id="misc-title">Competitions</h2>
+        <section class="section" id="competitions" aria-labelledby="competitions-title">
+          <div class="section-head">
+            <span class="section-num">07</span>
+            <h2 id="competitions-title">Competitions</h2>
           </div>
-          <div class="section-content">
-            <div class="competition-grid">
-              <section class="competition-card" aria-labelledby="other-competitions-title">
-                <div class="competition-card-header">
-                  <h3 id="other-competitions-title">Other Competitions</h3>
-                  <p>Four placements</p>
-                </div>
-                <ol class="competition-list">
-                  <li>
-                    <span class="rank-mark">1st</span>
-                    <div><a href="https://www.kaggle.com/competitions/dlmmdd-workshop-synthetic-source-attribution-challenge" target="_blank" rel="noreferrer">DLMMDD Synthetic Image Attribution Challenge</a><small>May 2026 &middot; 1st of 92 teams &middot; 99.73% accuracy</small></div>
-                  </li>
-                  <li>
-                    <span class="rank-mark">5th</span>
-                    <div><span class="entry-title">FIT5215 Deep Learning Competition</span><small>October 2025 &middot; 5th of 380 entries</small></div>
-                  </li>
-                  <li>
-                    <span class="rank-mark">2nd</span>
-                    <div><span class="entry-title">Advent of MAPS Programming Challenge</span><small>September 2025 &middot; Monash Algorithms and Problem Solving</small></div>
-                  </li>
-                  <li>
-                    <span class="rank-mark">3rd</span>
-                    <div><a href="https://news.microsoft.com/id-id/2024/11/18/govai-hackathon-produces-five-generative-ai-solutions-to-improve-the-quality-of-government-services-in-indonesia/" target="_blank" rel="noreferrer">GovAI Hackathon 2024</a><small>November 2024 &middot; Satellite imagery and carbon estimation</small></div>
-                  </li>
-                </ol>
-              </section>
+          <div class="section-body">
+            <div class="comp-group">
+              <div class="comp-group-head">
+                <h3>Other Competitions</h3>
+                <p>Four placements</p>
+              </div>
+              <ol class="comp-list">
+                <li class="comp-item">
+                  <span class="place" aria-label="1st place">1<sup>st</sup></span>
+                  <div class="comp-body"><a href="https://www.kaggle.com/competitions/dlmmdd-workshop-synthetic-source-attribution-challenge" target="_blank" rel="noreferrer">DLMMDD Synthetic Image Attribution Challenge</a><small>May 2026 &middot; 92 teams &middot; 99.73% accuracy</small></div>
+                </li>
+                <li class="comp-item">
+                  <span class="place" aria-label="5th place">5<sup>th</sup></span>
+                  <div class="comp-body"><span class="entry-title">FIT5215 Deep Learning Competition</span><small>October 2025 &middot; 380 entries</small></div>
+                </li>
+                <li class="comp-item">
+                  <span class="place" aria-label="2nd place">2<sup>nd</sup></span>
+                  <div class="comp-body"><span class="entry-title">Advent of MAPS Programming Challenge</span><small>September 2025 &middot; Monash Algorithms and Problem Solving</small></div>
+                </li>
+                <li class="comp-item">
+                  <span class="place" aria-label="3rd place">3<sup>rd</sup></span>
+                  <div class="comp-body"><a href="https://news.microsoft.com/id-id/2024/11/18/govai-hackathon-produces-five-generative-ai-solutions-to-improve-the-quality-of-government-services-in-indonesia/" target="_blank" rel="noreferrer">GovAI Hackathon 2024</a><small>November 2024 &middot; Satellite imagery and carbon estimation</small></div>
+                </li>
+              </ol>
+            </div>
 
-              <section class="competition-card" aria-labelledby="kaggle-competitions-title">
-                <div class="competition-card-header">
-                  <h3 id="kaggle-competitions-title">Kaggle Competitions</h3>
-                  <p>Five bronze medals</p>
-                </div>
-                <ol class="competition-list">
-                <li>
-                  <span class="medal" aria-label="Bronze medal"></span>
-                  <div><a href="https://www.kaggle.com/competitions/recodai-luc-scientific-image-forgery-detection" target="_blank" rel="noreferrer">Recod.ai/LUC - Scientific Image Forgery Detection</a><small>87th of 1,564 teams</small></div>
+            <div class="comp-group">
+              <div class="comp-group-head">
+                <h3>Kaggle Competitions</h3>
+                <p>Five bronze medals</p>
+              </div>
+              <ol class="comp-list">
+                <li class="comp-item">
+                  <span class="medal" role="img" aria-label="Bronze medal">&#129353;</span>
+                  <div class="comp-body"><a href="https://www.kaggle.com/competitions/recodai-luc-scientific-image-forgery-detection" target="_blank" rel="noreferrer">Recod.ai/LUC - Scientific Image Forgery Detection</a><small>87th of 1,564 teams</small></div>
                 </li>
-                <li>
-                  <span class="medal" aria-label="Bronze medal"></span>
-                  <div><a href="https://www.kaggle.com/competitions/neurogolf-2026" target="_blank" rel="noreferrer">The 2026 NeuroGolf Championship</a><small>243rd of 2,963 teams</small></div>
+                <li class="comp-item">
+                  <span class="medal" role="img" aria-label="Bronze medal">&#129353;</span>
+                  <div class="comp-body"><a href="https://www.kaggle.com/competitions/neurogolf-2026" target="_blank" rel="noreferrer">The 2026 NeuroGolf Championship</a><small>243rd of 2,963 teams</small></div>
                 </li>
-                <li>
-                  <span class="medal" aria-label="Bronze medal"></span>
-                  <div><a href="https://www.kaggle.com/competitions/csiro-biomass" target="_blank" rel="noreferrer">CSIRO - Image2Biomass Prediction</a><small>244th of 3,805 teams</small></div>
+                <li class="comp-item">
+                  <span class="medal" role="img" aria-label="Bronze medal">&#129353;</span>
+                  <div class="comp-body"><a href="https://www.kaggle.com/competitions/csiro-biomass" target="_blank" rel="noreferrer">CSIRO - Image2Biomass Prediction</a><small>244th of 3,805 teams</small></div>
                 </li>
-                <li>
-                  <span class="medal" aria-label="Bronze medal"></span>
-                  <div><a href="https://www.kaggle.com/competitions/deep-past-initiative-machine-translation" target="_blank" rel="noreferrer">Deep Past Challenge - Translate Akkadian to English</a><small>251st of 2,674 teams</small></div>
+                <li class="comp-item">
+                  <span class="medal" role="img" aria-label="Bronze medal">&#129353;</span>
+                  <div class="comp-body"><a href="https://www.kaggle.com/competitions/deep-past-initiative-machine-translation" target="_blank" rel="noreferrer">Deep Past Challenge - Translate Akkadian to English</a><small>251st of 2,674 teams</small></div>
                 </li>
-                <li>
-                  <span class="medal" aria-label="Bronze medal"></span>
-                  <div><a href="https://www.kaggle.com/competitions/santa-2025" target="_blank" rel="noreferrer">Santa 2025 - Christmas Tree Packing Challenge</a><small>265th of 3,357 teams</small></div>
+                <li class="comp-item">
+                  <span class="medal" role="img" aria-label="Bronze medal">&#129353;</span>
+                  <div class="comp-body"><a href="https://www.kaggle.com/competitions/santa-2025" target="_blank" rel="noreferrer">Santa 2025 - Christmas Tree Packing Challenge</a><small>265th of 3,357 teams</small></div>
                 </li>
-                </ol>
-              </section>
+              </ol>
             </div>
           </div>
         </section>
-      </main>
 
-      <footer class="site-footer">
-        <p>Hanif Noer Rofiq</p>
-        <p>Last updated July 2026</p>
-      </footer>
+        <footer class="site-footer">
+          <p>Hanif Noer Rofiq</p>
+          <p><a href="#content">Back to top <span class="arrow" aria-hidden="true">&#8593;</span></a></p>
+        </footer>
+      </main>
     </div>
+
+    <script src="assets/js/portfolio.js?v=20260723b" defer></script>
   </body>
 </html>
